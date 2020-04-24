@@ -1,32 +1,3 @@
-# def prime?(number)
-#   n = 1
-#   if n > 2
-#     true
-#   elsif
-#     n == 3
-#   else
-#     n <= 2
-#   end
-#   prime?
-# end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 def prime?(number)
   start = 2
   if number > 1
@@ -38,3 +9,16 @@ def prime?(number)
     false
   end
 end
+
+
+# def prime?(number)
+#   n = 1
+#   if n > 2
+#     true
+#   elsif
+#     n == 3
+#   else
+#     n <= 2
+#   end
+#   prime?
+# end
